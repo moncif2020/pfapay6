@@ -1,0 +1,6 @@
+{
+  "HomePage": {
+    "description": "Güvenli ve Küresel Dijital Ödeme Platformu",
+    "success_message": "Başarıyla Yayınlandı!"
+  }
+}
